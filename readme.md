@@ -13,3 +13,16 @@
 ## Insertion Sort
 
 [Click here to check Insertion Sort 👈🏻](insertion-sort.md)
+
+## Merge Sort
+
+[Click here to check Merge Sort 👈🏻](merge-sort.md)
+
+## Quick Sort
+
+[Click here to check Quick Sort 👈🏻](quick-sort.md)
+
+## Radix Sort
+
+[Click here to check Radix Sort 👈🏻](radix-sort.md)
+
